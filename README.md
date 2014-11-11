@@ -1,4 +1,4 @@
 test
 ====
 
-test stuff
+my first test of git. will store useful stuff here
